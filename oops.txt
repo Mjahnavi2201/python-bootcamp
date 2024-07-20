@@ -1,0 +1,61 @@
+OOPS:
+*real time problems can be solved by oops
+*privacy of code
+*easy uderstandable
+->Object Oriented Programming 
+Properties:
+->CLASS
+->OBJECT
+->CONSTRUCTION
+->ABSTRACTION
+->ENCAPSULATION
+->INHERITANCE
+->POLYMORPHISM
+
+Class:
+-class is a blueprint of an object
+-class is a logical entity
+-1st letter of class name should be capitalize
+-class contains functions,construtors,data
+
+Object:
+-object is a real world entity and physical entity
+-object is an instance of a class
+-instance is a sub part
+-object contain properties,behavior,identity
+
+Constructor:
+-it is a special method used to invoke instance variable
+-construtor doesn't return any value
+-while creating the object constructor will called implicitly(default)
+-there are three types of construtors
+ 1.default
+ 2.parameterized
+ 3.non-parameterized
+
+Inheritance:
+-types of inheritance
+ 1.single
+ 2.multiple
+ 3.multilevel
+ 4.heirarical
+ 5.hybrid
+
+Encapsulation:
+-binding data and methods into single component is called Encapsulation
+-ex: class is the best example of encapsulation
+-Advantages:
+ 1.Code Integretion-security
+ 2.Acess modifier-public,private,protected
+
+Polymorphism:
+-types of polymorphism
+ 1.Run Time - Method Overriding
+ 2.Compile Time - Method Overloading
+-Human Being:
+	in College - Student
+	in Theater - Audience
+	in Market - Customer
+	in Sports - Player
+	in Home - Child
+ 
