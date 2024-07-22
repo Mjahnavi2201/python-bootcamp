@@ -1,0 +1,13 @@
+#swap
+#method1(XOR)
+a,b=5,4
+a=a^b
+b=a^b
+a=a^b
+print(a,b)
+#method2(Arithmetic)
+a,b=7,8
+a=a+b
+b=a-b
+a=a-b
+print(a,b)
